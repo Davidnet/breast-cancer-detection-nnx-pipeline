@@ -1,0 +1,6 @@
+[submodule "components/cbis_ddsm_dataloader"]
+	path = components/cbis_ddsm_dataloader
+	url = https://github.com/Davidnet/cbis_ddsm_dataloader.git
+[submodule "components/flax-cnn-model"]
+	path = components/flax-cnn-model
+	url = https://github.com/Davidnet/flax-cnn-model.git
